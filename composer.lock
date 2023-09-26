@@ -572,7 +572,7 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v10.0.0",
+            "version": "v9.21.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
@@ -1829,7 +1829,7 @@
         },
         {
             "name": "orchid/platform",
-            "version": "14.0.0",
+            "version": "13.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchidsoftware/platform.git",
